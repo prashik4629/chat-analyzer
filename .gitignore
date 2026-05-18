@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+*.dll
+*.exe
+uploaded_chat.txt
+chat.txt
+.env
+node_modules/
+.next/
+.DS_Store
+Thumbs.db
+dataset/
